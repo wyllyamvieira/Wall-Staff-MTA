@@ -1,0 +1,5 @@
+<meta>
+    <script src = "WyllyamG.lua" type = "shared" cache = "false"/>
+    <script src = "WyllyamS.lua" type = "server" cache = "false"/>
+    <script src = "WyllyamC.lua" type = "client" cache = "false"/>
+</meta>
